@@ -1,0 +1,58 @@
+ 
+*{
+	margin: 0px;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+ body {
+ 	background: #C0C0C0 url('imagem/fundo.png');
+ 	font: 16px arial, helvetica, sans-serif;
+ }
+ #principal {
+ 	width:900px;
+ }
+
+ #menu {
+ 	background: #c5c5b2;
+ 	border: solid none;
+ 	padding: 30px;
+
+  }
+
+  #conteudo {
+  	background: white;  
+  	padding: 10px;
+	 
+  }
+  h1 {
+  	color: rgb(101, 75, 126);
+  	padding: 10px;
+
+  }
+  a {
+  	color: 4b566a;
+  	text-decoration: none;
+  	padding: 10px;
+  }
+
+  .centraliza {
+  	text-align: center;
+  	background:#c5c5b2 ;
+  	padding: 20px;
+  }
+
+  h2 {
+	color: rgb(173, 167, 168);
+  }
+
+  img {
+	  border: 10px solid #C0C0C0 ;
+	 
+  }
+  p {
+	 margin: 10px;
+
+  }
+
+ 
